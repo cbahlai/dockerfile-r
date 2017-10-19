@@ -1,0 +1,5 @@
+install.packages("sp")
+install.packages("rgeos")
+install.packages("rgdal")
+install.packages("raster")
+install.packages("cdlTools")
